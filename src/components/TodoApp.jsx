@@ -28,7 +28,7 @@ const TodoApp = () => {
   }, []);
   return (
     <div>
-      <h3>Todo App new</h3>
+      <h3>New Todo</h3>
       <TodoInput
         value={value}
         handleChange={handleChange}
